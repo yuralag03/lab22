@@ -154,5 +154,5 @@ void out_rez(Tfun func, double start, double end, double step) {
 
 ## 4. Информация о разработчике
 
-Глебов Илья, бИПТ-252
+Капичников Юрий, бИПТ-252
 
